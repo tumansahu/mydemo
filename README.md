@@ -1,3 +1,5 @@
 # mydemo
 my first repositary
-hellot my first repo
+hello my first repo
+author : tuman sahu
+
